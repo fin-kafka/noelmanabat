@@ -31,7 +31,7 @@ export async function getCompanyDetails(): Promise<Company[] | boolean> {
 
 export async function getGithubDetails(): Promise<unknown> {
   try {
-    const { data } = await axios.get(`https://api.github.com/repos/flyahser`);
+    const { data } = await axios.get(`https://api.github.com/mananoel`);
     return data;
   } catch (err) {
     return false;
