@@ -3,7 +3,7 @@ import { Company, PersonalDetails, Project } from './types';
 
 // export const BASE_URL = 'https://smartasherlee.herokuapp.com/api';
 
-export const BASE_URL = 'http://localhost:3000/api';
+export const BASE_URL = 'https://mananoel.github.io/api';
 
 export async function getPersonalDetails(): Promise<PersonalDetails | boolean> {
   try {
