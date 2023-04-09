@@ -47,7 +47,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://smartasherlee.herokuapp.com" />
+        <meta property="og:url" content="https://mananoel-github-io.vercel.app/" />
         <meta property="og:title" content="Noel Manabat | Senior FullStack Software Engineer" />
         <meta
           property="og:description"
@@ -60,7 +60,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://smartasherlee.herokuapp.com" />
+        <meta property="twitter:url" content="https://mananoel-github-io.vercel.app" />
         <meta property="twitter:site" content="@noelmanabat" />
         <meta
           property="twitter:title"

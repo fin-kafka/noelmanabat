@@ -29,7 +29,7 @@ export default function RepoDetails(): JSX.Element {
                 *Credits to the owners for the vectors/icons used. These are picked from various
                 sources from the internet. <br />
                 *Feel free to fork and make this repo your own, but make sure to give credits to
-                <a href="https://smartasherlee.herokuapp.com">the owner</a>
+                <a href="https://mananoel-github-io.vercel.app/">the owner</a>
               </p>
             </div>
           </div>

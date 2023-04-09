@@ -1,9 +1,7 @@
 import axios from 'axios';
 import { Company, PersonalDetails, Project } from './types';
 
-// export const BASE_URL = 'https://smartasherlee.herokuapp.com/api';
-
-export const BASE_URL = 'https://mananoel.github.io/api';
+export const BASE_URL = 'https://mananoel-github-io.vercel.app/api';
 
 export async function getPersonalDetails(): Promise<PersonalDetails | boolean> {
   try {

@@ -7,7 +7,7 @@
 My Porfolio
 </p>
 <p align="center">
-crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://smartasherlee.herokuapp.com/me">Noel Manabat</a>.
+crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://mananoel-github-io.vercel.app/me">Noel Manabat</a>.
 </p>
 
 > Noel's Developer Portfolio built on NextJS!
