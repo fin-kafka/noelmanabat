@@ -14,7 +14,7 @@ const db = {
     calendyUrl: 'https://calendly.com/noel-manabat/30min',
     socialMedia: [
       {
-        link: 'mailto:noel.manabat35@gmail.com',
+        link: 'mailto:noel2manabat@gmail.com',
         image_file: '/images/icons/mail.svg',
         alt_text: 'Email'
       },
